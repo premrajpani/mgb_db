@@ -7,10 +7,10 @@
       "type": "image"
     },
     {
-      "isActive": false,
+      "isActive": true,
       "title": "ସେବା କାର୍ଯ୍ୟ ପାଇଁ ସାହାଯ୍ୟ",
-      "url": "https://razorpay.me/@mogitabahibypremrajpani",
-      "type": "youtube"
+      "url": "https://support.mogitabahi.in/",
+      "type": "chrome"
     },
     {
       "isActive": false,
