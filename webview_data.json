@@ -7,7 +7,7 @@
       "type": "image"
     },
     {
-      "isActive": true,
+      "isActive": false,
       "title": "ସେବା କାର୍ଯ୍ୟ ପାଇଁ ସାହାଯ୍ୟ",
       "url": "https://support.mogitabahi.in/",
       "type": "chrome"
