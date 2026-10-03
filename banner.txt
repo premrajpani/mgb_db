@@ -1,1 +1,1 @@
-{"text": "PRAISE THE LORD", "size": 25}
+{"text": "", "size": 25}
