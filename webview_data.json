@@ -1,13 +1,15 @@
 {
   "items": [
     {
-      "isActive": false,
-      "title": "mgb",
-      "url": "https://momp3.mogitabahi.in/MGB%20FILE/MGB%20LG%20copy.jpeg",
+      "isActive": true,
+      "title": "ସୁସମାଚାର ଅଭିଯାନ ପତ୍ରିକା",
+      "url": "https://momp3.mogitabahi.in/MGB%20FILE/IMG_20261128_212652.jpg
+
+",
       "type": "image"
     },
     {
-      "isActive": true,
+      "isActive": false,
       "title": "ସେବା କାର୍ଯ୍ୟ ପାଇଁ ସାହାଯ୍ୟ",
       "url": "https://support.mogitabahi.in/",
       "type": "chrome"
